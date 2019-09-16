@@ -20,5 +20,8 @@ categories: software mentoring hallym python orientation
 
 ## 멘토링 진행방식
 
-
 ![학습계획서2](https://user-images.githubusercontent.com/38097923/64128013-39ac9400-cdef-11e9-9dac-cd4e18e6b67c.PNG)
+
+***
+
+##
