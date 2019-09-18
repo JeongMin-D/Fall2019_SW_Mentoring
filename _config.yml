@@ -18,7 +18,7 @@ minimal_mistakes_skin    : "sunrise" # "air", "aqua", "contrast", "dark", "dirt"
 locale                   : "en-US"
 title                    : "Fall2019 SW_Mentoring"
 title_separator          : "-"
-subtitle                 : # site tagline that appears below site title in masthead
+subtitle                 : "비전공자를 위한 파이썬 입문" # site tagline that appears below site title in masthead
 name                     : "Jeong Min"
 description              : "2019년 가을학기 SW 멘토링 자료 페이지입니다."
 url                      : "https://jeongmin-d.github.io/Fall2019_SW_Mentoring/" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
