@@ -37,7 +37,6 @@ categories: software mentoring hallym python
 
 - e-mail : h20141231@g-mail.hallym.ac.kr
 - kakaotalk : wjdals061
-- phone : 010-9473-9051
 - github : [github](https://github.com/JeongMin-D)
 
 ## 4.멘토링 신청 링크
