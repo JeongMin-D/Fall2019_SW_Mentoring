@@ -35,7 +35,7 @@ categories: software mentoring hallym python
 
 ## 4.연락처
 
-- e-mail : [j25ng.py@gmail.com](j25ng.py@gmail.com)
+- e-mail : j25ng.py@gmail.com
 - kakaotalk : wjdals061
 - github : [github](https://github.com/JeongMin-D)
 
